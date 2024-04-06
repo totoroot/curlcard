@@ -59,7 +59,7 @@ ${magenta}│${reset}  ${bold}Recruiting:${reset}  ${blue}jobs@thym.at          
 ${magenta}│                                                               │
 ${magenta}│${reset}    ${bold}Codeberg:${reset}  ${white}https://${cyan}codeberg.org${reset}${dim}/${magenta}totoroot                   ${magenta}│
 ${magenta}│${reset}      ${bold}GitHub:${reset}  ${white}https://${cyan}github.com${reset}${dim}/${magenta}totoroot                     ${magenta}│
-${magenta}│${reset}    ${bold}Mastodon:${reset}  ${white}https://${cyan}fosstodon.org${reset}${dim}/${magenta}@totoroot                 ${magenta}│
+${magenta}│${reset}   ${bold}Fediverse:${reset}  ${white}https://${cyan}ibe.social${reset}${dim}/${magenta}@totoroot                    ${magenta}│
 ${magenta}│${reset}        ${bold}Chat:${reset}  ${blue}chat@thym.at                                    ${magenta}│
 ${magenta}│                                                               │
 ${magenta}│${reset}    ${bold}Curlcard:${reset}  ${green}curl ${cyan}-sL ${white}https://matthias.thym.at/card.sh | ${green}sh  ${magenta}│
